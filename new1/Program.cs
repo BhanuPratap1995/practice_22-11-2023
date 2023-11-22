@@ -10,6 +10,8 @@ namespace new1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("bhanu is myname");
+            Console.ReadLine();
         }
     }
 }
